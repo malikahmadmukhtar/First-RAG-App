@@ -2,7 +2,7 @@
 My first RAG application using python and gemini
 It is built to be a chatbot for daraz app to help users with their queries through chat
 
-# To Run this App in PyCharm or colab
+# To Run this App in PyCharm
 ## Install dependencies
 pip install google-generativeai
 
