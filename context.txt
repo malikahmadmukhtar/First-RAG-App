@@ -1,0 +1,54 @@
+Daraz is a widely used e-commerce platform that allows users to purchase a variety of products with ease. The platform provides a streamlined process for placing orders, tracking shipments, handling payments, and managing customer information. Additionally, users can cancel orders if needed, provided the order has not yet been processed for shipping. Below is a detailed, step-by-step guide on how each of these functions works on Daraz.
+
+#### **1. How to Place an Order on Daraz**  
+Placing an order on Daraz is simple and involves a few essential steps to ensure a smooth shopping experience.  
+- **Step 1: Log in or Sign Up** – Users must first log into their Daraz account. If they don’t have an account, they can register using their email, phone number, or social media accounts.  
+- **Step 2: Browse and Select Products** – Users can explore products using the search bar or browse through various categories. Product pages provide details such as descriptions, pricing, reviews, and seller ratings.  
+- **Step 3: Add to Cart or Buy Now** – After choosing a product, users can either add it to their cart to continue shopping or click "Buy Now" for an immediate purchase.  
+- **Step 4: Enter Shipping Information** – At checkout, users must enter their delivery address, ensuring accuracy to avoid shipping delays. Saved addresses can be selected for convenience.  
+- **Step 5: Choose a Payment Method** – Daraz supports multiple payment options, including:  
+  - **Cash on Delivery (COD)** – Pay when the product arrives.  
+  - **Debit/Credit Card Payments** – Visa, Mastercard, and local bank cards are accepted.  
+  - **Mobile Wallets** – Payments via Easypaisa, JazzCash, or other integrated wallets.  
+  - **Bank Transfers** – Direct payment through internet banking.  
+- **Step 6: Confirm and Place the Order** – After verifying details, users can place the order, receiving a confirmation notification or email with the order number and details.  
+
+#### **2. How to Cancel an Order on Daraz**  
+In cases where a user wishes to cancel an order, Daraz provides an easy cancellation process, but it must be done before the order is processed for shipping.  
+- **Step 1: Go to "My Orders"** – Navigate to the Daraz app or website and access the "My Orders" section.  
+- **Step 2: Select the Order to Cancel** – Find the specific order from the list of recent purchases.  
+- **Step 3: Click on "Cancel Order"** – If the order is still in the “Processing” stage and has not been packed or shipped, users will see the option to cancel.  
+- **Step 4: Confirm Cancellation** – Once confirmed, users receive a notification about the successful cancellation. If payment was made online, a refund will be processed as per Daraz’s refund policy.  
+- **Note:** Orders that are already packed or shipped cannot be canceled, but users can request a return after delivery.  
+
+#### **3. How to Track an Order on Daraz**  
+Tracking orders on Daraz allows users to stay updated on their delivery status.  
+- **Step 1: Open "My Orders"** – Users must log into their Daraz account and navigate to the "My Orders" section.  
+- **Step 2: Select the Order** – Click on the specific order to view its status.  
+- **Step 3: Check the Order Status** – Users can see different stages of the order, such as:  
+  - **Processing** – The seller is preparing the order.  
+  - **Shipped** – The package is on its way and can be tracked in real-time.  
+  - **Out for Delivery** – The product is close to arrival.  
+  - **Delivered** – The order has been successfully received.  
+- **Step 4: View Tracking Details** – If the order is shipped, users can see courier details and a tracking number to monitor real-time movement through Daraz’s logistics partners.  
+
+#### **4. Payment Methods on Daraz**  
+Daraz offers various payment methods to provide flexibility to users.  
+- **Cash on Delivery (COD)** – The most common method where users pay in cash upon receiving their order.  
+- **Debit/Credit Cards** – Secure online payments via Visa, Mastercard, and local banking cards.  
+- **Mobile Wallets** – Payments can be made using Easypaisa, JazzCash, or other integrated digital wallets.  
+- **Bank Transfers** – Some users can make direct bank transfers for seamless transactions.  
+- **Daraz Wallet** – A prepaid wallet where users can deposit funds and use them for purchases. It also facilitates quick refunds.  
+
+#### **5. Managing Customer Information on Daraz**  
+To ensure a smooth shopping experience, Daraz allows users to manage and update their personal information easily.  
+- **Step 1: Open Profile Settings** – Users can navigate to the account settings section in the Daraz app or website.  
+- **Step 2: Edit Personal Details** – Users can update their name, phone number, and email address.  
+- **Step 3: Manage Addresses** – Users can add, edit, or remove delivery addresses to ensure orders are shipped to the correct location.  
+- **Step 4: Update Payment Preferences** – If users frequently use online payments, they can securely save card details or link digital wallets for faster transactions.  
+- **Step 5: Privacy and Security Settings** – Users can enable two-factor authentication and review login activity to enhance account security.  
+
+### **How a RAG Application Enhances This Process**  
+A **Retrieval-Augmented Generation (RAG) application** can significantly improve the shopping experience on Daraz by providing AI-driven, instant responses to user queries related to order placement, tracking, cancellation, and payments. Instead of manually searching for help, users can interact with an AI assistant that retrieves and generates accurate information based on their queries. This could be integrated into the Daraz app, allowing users to get real-time assistance for order management, payment issues, and refund processing, ultimately improving customer satisfaction and reducing response time.  
+
+By following these steps, users can efficiently navigate Daraz, ensuring a seamless shopping experience from placing an order to receiving their product while also having the flexibility to cancel, track, and manage payments securely.
